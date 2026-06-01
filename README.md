@@ -1,8 +1,3 @@
-Here’s a polished **README.md** template you can drop straight into your GitHub repo. It’s recruiter‑friendly, visually engaging, and highlights your project clearly.  
-
----
-
-```markdown
 # 🎯 Difficulty Adjustment API
 
 A simple FastAPI project that dynamically adjusts question difficulty based on user scores and previous difficulty.  
