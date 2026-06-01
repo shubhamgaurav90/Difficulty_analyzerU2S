@@ -64,8 +64,8 @@ uvicorn api.server:app --reload
 ```
 
 Open in browser:
-- Home → `http://127.0.0.1:8000` [(127.0.0.1 in Bing)](https://www.bing.com/search?q="http%3A%2F%2F127.0.0.1%3A8000%2F")  
-- Swagger UI → `http://127.0.0.1:8000/docs` [(127.0.0.1 in Bing)](https://www.bing.com/search?q="http%3A%2F%2F127.0.0.1%3A8000%2Fdocs")
+- Home → `http://127.0.0.1:8000` 
+- Swagger UI → `http://127.0.0.1:8000/docs`
 
 Example request:
 ```json
